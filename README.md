@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="image1.jpeg" alt="Virendra Pratap Singh Bisht" width="200" style="border-radius: 50%;" />
+</p>
+
 # Virendra Pratap Singh Bisht
 
 📍 India  
